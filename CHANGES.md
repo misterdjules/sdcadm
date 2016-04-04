@@ -10,6 +10,10 @@
 
 # sdcadm Changelog
 
+## 1.11.2
+
+- TOOLS-FIXME: add sdcadm experimental vapi
+
 ## 1.11.1
 
 - TOOLS-1380: 'sdcadm insts' (and other code paths) crash on gather dockerlogger instance info
