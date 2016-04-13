@@ -12,7 +12,7 @@
 
 ## 1.11.2
 
-- TOOLS-FIXME: add sdcadm experimental vapi
+- TOOLS-FIXME: add sdcadm experimental volapi
 
 ## 1.11.1
 
